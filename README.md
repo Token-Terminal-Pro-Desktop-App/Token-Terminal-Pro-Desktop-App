@@ -28,7 +28,7 @@ Whether you are comparing high-growth DeFi protocols, evaluating governance toke
 
 ---
 
-![Token Terminal Pro Analytics](https://cdn.prod.website-files.com/6523ce8efc8767aef1c56b41/6605a63a04d220c5a683dee9_tokenterminal.com_terminal_projects_bitcoin.jpg)
+![Token Terminal Pro Analytics](https://cdn.sanity.io/images/rvtn5kgj/production/bce3a46552f198e0448871c86d854f459246ecca-3840x2160.jpg?w=1200&q=80&auto=format&dpr=2)
 
 ---
 
